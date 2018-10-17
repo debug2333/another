@@ -11,5 +11,5 @@
  ------
  
  ```python
- __import__('os');print(dir(os))
+ print("你好小老弟")
  ```
